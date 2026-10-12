@@ -1,5 +1,5 @@
 name: dart_practice
-description: Bai thuc hanh Dart
+description: Ứng dụng thi TOEIC Reading - ETS Test 09 (Nguyen Nhat Duy - 2380600355)
 version: 1.0.0
 
 environment:
@@ -17,6 +17,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
-  assets:
-    - images/doremon.jpg
